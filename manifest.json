@@ -1,8 +1,8 @@
 {
   "id": "hotlines",
   "name": "Hotlines",
-  "version": "1.0.0",
-  "minAppVersion": "1.0.0",
+  "version": "1.0.2",
+  "minAppVersion": "1.0.2",
   "description": "Grab your attention by highlighting entire lines matching keywords or regex patterns with custom styles.",
   "author": "Steve Crutchfield",
   "authorUrl": "https://github.com/crufi",
