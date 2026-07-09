@@ -6,7 +6,7 @@ Highlighting is automatic based on plain text in your note, no callout or other 
 
 Works in both Reading Mode and Live Preview, on desktop and mobile.
 
-<img src="docs/screenshot-highlights.png" alt="Mobile settings" width="600">
+<img src="docs/demo.gif" alt="Hotlines in action" width="600">
 
 I like the [aDHL plugin](https://github.com/tine-schreibt/aDHL); Hotlines is simpler but adds the ability to style with any custom CSS (in particular I wanted to customize the *font* color as well as the background). aDHL adds lots of other nice features though—check it out too.
 
